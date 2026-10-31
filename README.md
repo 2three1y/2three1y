@@ -23,6 +23,14 @@ I make web stuff that works with a screen reader first and looks cool second. Us
 - [Dream Nests](https://2three1y.github.io/dreamnests/): live Nostr audio rooms that work with VoiceOver.
 - [Retro Voice Jukebox](https://2three1y.github.io/retrovoicejukebox/): old-school robot voices, one of which sings.
 - [GameSpeak](https://2three1y.github.io/gamespeak/): reads the text in game screenshots out loud.
+## Chaotic Carter
+
+My producer name. producer. builder. chaos.
+
+- [YouTube: Chaotic Carter beats](https://www.youtube.com/channel/UChazMrj9avsQnGW-UiG86IQ)
+- [TikTok: beat snippets and chaos](https://www.tiktok.com/@supxr.and.odetari_fan)
+- [All my links, on my site](https://2three1y.github.io/#chaotic-carter)
+
 ## Say hi
 
 Found a bug or have an idea? Open an issue on any of my repos. If something isn't accessible, that's a bug, and I want to know about it. Damn right I do.
