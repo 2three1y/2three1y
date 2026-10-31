@@ -28,7 +28,7 @@ I make web stuff that works with a screen reader first and looks cool second. Us
 My producer name. producer. builder. chaos.
 
 - [YouTube: Chaotic Carter beats](https://www.youtube.com/channel/UChazMrj9avsQnGW-UiG86IQ)
-- [TikTok: beat snippets and chaos](https://www.tiktok.com/@supxr.and.odetari_fan)
+- [TikTok: beat snippets and chaos](https://www.tiktok.com/@chaotic_carter)
 - [All my links, on my site](https://2three1y.github.io/)
 
 ## Say hi
